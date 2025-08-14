@@ -1,5 +1,5 @@
-# forumhub
-Desafio do curso BackEnd da Alura/One
+## Forumhub
+#Desafio do curso BackEnd da Alura/One
 
 Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. 
 Na Alura, os alunos e alunas utilizam o fórum para tirar suas dúvidas sobre os cursos e projetos em que estão participando. 
@@ -9,14 +9,13 @@ Neste desafio, vamos replicar o ForumHub  no nível do back end e, para isso, fo
 
 Nesta API se encontram os tópicos que devem permitir aos usuários:
 
-Criar um novo tópico;
+#Criar um novo tópico;
 Mostrar todos os tópicos criados;
 Mostrar um tópico específico;
 Atualizar um tópico;
 Eliminar um tópico.
 
-Dependências utilizadas:
-
+#Dependências utilizadas:
 Validation
 MySQL Driver
 Spring Data JPA
