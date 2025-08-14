@@ -41,5 +41,5 @@ Serviço de autenticação/autorização para restringir o acesso à informaçã
 
 
 <div align="center">
-<img width="50" height="50" alt="Badge-Spring" center src="https://github.com/user-attachments/assets/63679334-e57c-4941-91f1-91a793c9f37b" />
+<img width="50" height="50" alt="Badge-Spring" src="https://github.com/user-attachments/assets/63679334-e57c-4941-91f1-91a793c9f37b" />
 </div>
